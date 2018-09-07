@@ -30,7 +30,7 @@ const (
 	maxMessageLen      = 7609
 	minInitResponseLen = 17
 
-	responseTimeout = 3 * time.Second
+	responseTimeout = 1 * time.Second
 
 	fidoUsagePage = 0xF1D0
 	u2fUsage      = 1
